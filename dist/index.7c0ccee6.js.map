@@ -1,0 +1,1 @@
+{"mappings":"AACA,MAAM,SAAO,MAAM,aAAa,CAAC,OAAM,CAAC,GAAE","sources":["app.js"],"sourcesContent":["\r\nconst parent=React.createElement(\"div\",{},\"parent\")\r\n"],"names":[],"version":3,"file":"index.7c0ccee6.js.map","sourceRoot":"/__parcel_source_root/"}
